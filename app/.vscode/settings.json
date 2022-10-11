@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "yt_django_auth",
+            "username": "root",
+            "name": "SqlConnection",
+            "password": "rootroot"
+        }
+    ]
+}
